@@ -12,6 +12,6 @@
 ![](./dataset/p2.jpg)
 ## 相应的canny边缘检测图
 ![](./dataset/p2_canny.png)
-## 咒语prompt: `realistic room with white walls and golden door`
+## 咒语prompt: `realistic room with colorful walls and golden door`
 ## 得到的图像：
 ![](./dataset/p2_result.jpg)
