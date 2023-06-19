@@ -20,8 +20,8 @@
 
 # 个人数据上推理测试
 ## 图像上的分割
-输入图像![](./TestDataSet/watermelon.jpg)
-推理结果![](./TestDataResults/watermelon.jpg)
+![](./TestDataSet/watermelon.jpg)
+![](./TestDataResults/watermelon.jpg)
 ## 视频上的分割
 输入视频![](./TestDataSet/watermelon.mp4)
 推理结果![](./TestDataResults/watermelon_out.mp4)
